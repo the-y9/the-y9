@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Yash
 
-* 🎯 AI Engineer
+* 🎯 Data Analyst @ QACA
 * 🌱 Learnt Data Science @ **IIT Madras**
 * 🔗 [LinkedIn](https://www.linkedin.com/in/the-y9)
 * 🏊‍♂️ Love to **swim**, and build stuff on the web
